@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^819f$ random/819f.php
+RewriteRule ^5f6l$ random/5f6l.php
+RewriteRule ^sc0p$ random/sc0p.php

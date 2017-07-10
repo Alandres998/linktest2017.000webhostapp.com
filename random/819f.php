@@ -1,0 +1,1 @@
+<?php header('Location: https://www.yandex.ru/yandsearch?text=github%20как%20закинуть%20файлы%20в%20репозиторий&lr=2&clid=9582') ?>
